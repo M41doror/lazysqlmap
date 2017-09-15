@@ -40,15 +40,15 @@ this is a screenshot
 
 i made this video for you guys
 
-This is Instalation Video Documentation
+This is Instalation Video Documentation : https://www.youtube.com/watch?v=cSG1dF0YoDg
 
 [![Instalation Documentation](https://i.ytimg.com/vi/cSG1dF0YoDg/hqdefault.jpg)](https://www.youtube.com/watch?v=cSG1dF0YoDg)
 
-This is live action video documentation 1
+This is live action video documentation 1 : https://www.youtube.com/watch?v=aqJeFt65cpk
 
 [![Demo Video 1](https://i.ytimg.com/vi/aqJeFt65cpk/hqdefault.jpg)](https://www.youtube.com/watch?v=aqJeFt65cpk)
 
-This is live action video documentation 2
+This is live action video documentation 2 : https://www.youtube.com/watch?v=awgeQoggXWA
 
 [![Demo Video 2](https://i.ytimg.com/vi/awgeQoggXWA/hqdefault.jpg)](https://www.youtube.com/watch?v=awgeQoggXWA)
 
