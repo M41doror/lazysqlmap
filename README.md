@@ -2,10 +2,13 @@
 
 ______________________________________
 # lazysqlmap
+
 SQLMap For Lazy People Edition I made this SQLMap more easier to use
 
+this project is under GNU General Public License v3.0
 ______________________________________
 # How to Use It
+
 Read this instruction :
 
 Clone / Download this repository from your terminal
@@ -37,7 +40,7 @@ this is a screenshot
 
 i made this video for you guys
 
-This is Intalation Video Documentation
+This is Instalation Video Documentation
 
 [![Instalation Documentation](https://i.ytimg.com/vi/cSG1dF0YoDg/hqdefault.jpg)](https://www.youtube.com/watch?v=cSG1dF0YoDg)
 
@@ -53,10 +56,14 @@ This is live action video documentation 2
 ______________________________________
 # Greetings
 
+I Developed this project https://github.com/sqlmapproject/sqlmap
+
+So I Really Say Special Thank's To All Developer And Contributor in SQLMap project
+
 I Hope you guys enjoy it and as always have nice day
 
 Regard
 
 Yukinoshita 47 Team Garuda Security Hacker
 
-http://garudasecurityhacker.org
+http://garudasecurityhacker.org | http://sqlmap.org
